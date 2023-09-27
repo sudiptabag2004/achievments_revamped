@@ -139,7 +139,7 @@ section{
 .tom .tom-content {
   color: white;
   position: absolute;
-  top: 20%; 
+  top: 5%; 
   left: 10%;
   transform: translatey( -20%); 
 }
