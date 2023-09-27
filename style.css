@@ -200,7 +200,7 @@ section{
 .tomy .tom-content {
   color: white;
   position: absolute;
-  top: 20%; 
+  top: 5%; 
   left: 10%;
   right:10%;  
   transform: translatey( -20%); 
@@ -259,7 +259,7 @@ section{
 .tomyy .tom-content {
   color: white;
   position: absolute;
-  top: 20%;
+  top: 5%;
   left: 10%;
   right:10%; 
   transform: translatey( -20%); 
@@ -322,7 +322,7 @@ section{
 .tomyyy .tom-content {
   color: white;
   position: absolute;
-  top: 20%; 
+  top: 5%; 
   left: 10%;
   right:10%;  
   transform: translatey( -20%); 
